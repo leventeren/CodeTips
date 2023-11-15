@@ -24,9 +24,11 @@
   <img src="OneDotPerLine.jpg" />
   <img src="OptionalParameters.jpg" />
   <img src="ParallelForEachLoop.jpg" />
+  <img src="Parallel ForEach2.png" />
   <img src="RelationalPatternsMatch.jpg" />
   <img src="ReplaceIfWithNull.jpg" />
   <img src="RethrowingExceptions.jpg" />
+  <img src="SwitchCase.png" />
   <img src="SwitchExpressions.jpg" />
   <img src="Take.jpg" />
   <img src="TaskFromResult.jpg" />
