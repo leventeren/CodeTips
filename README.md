@@ -45,6 +45,7 @@
   <img src="UsingDeclaration.jpg" />
   <img src="YieldReturnMemoryUsage.jpg" />
   <img src="Naming.jpg" />
+  <img src="SwitchCaseModern.jpg" />
 </div>
 ###
 
